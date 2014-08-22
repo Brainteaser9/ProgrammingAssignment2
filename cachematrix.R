@@ -1,7 +1,10 @@
 ## This pair of functions cache the inverse of a matrix.
 ## Assume that the matrix supplied is always invertible.
 ## The first function's input should be a matrix.
-## The way to use these functions is the following:
+## Please find the below example how to use these functions:
+## A <- 'define an invertable matrix'
+## inv <- makeCacheMatrix(A)
+## cacheSolve(inv)
 
 
 
